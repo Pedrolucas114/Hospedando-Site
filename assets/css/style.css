@@ -1,0 +1,10 @@
+/*Font*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+@import "header.css";
+@import "main.css";
+@import "footer.css";
+@import "responsive-background.css";
+@import "button.css";
+@import "bootstrap.css";
+@import "responsive-elements.css";
